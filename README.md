@@ -11,8 +11,6 @@ O foco é a curiosidade, a interpretação dos sinais e a criatividade de quem j
 
 Para preservar a experiência do enigma, é recomendado **não utilizar agentes de IA** para decifrar as respostas automaticamente.
 
-Se você quiser uma ajuda, pode usar o **ChatGPT**.
-
 ## Aviso
 
 Este projeto foi pensado para entretenimento e desafio técnico leve.
